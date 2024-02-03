@@ -7,4 +7,5 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-PS1='[\u@\h \w] \$ '
+alias gpp='g++'
+PS1='\w \$ '
